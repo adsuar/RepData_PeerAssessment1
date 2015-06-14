@@ -25,7 +25,7 @@ The main goal of the task is to write a report in a single R markdown document t
 
 With the aim of developing such task, and that the solution can be transformed not just into HTML but as well into DOCX and PDF, please find below the software requirements to be able to reproduce smoothly the **Rmd** document.
 
-Finally, for the final task, the locale with which I've been working is **LC_TIME=Spanish_Spain**.
+Finally, for the final task related to weekdays and weekends, the locale with which I've been working is **LC_TIME=Spanish_Spain**.
 
 ### OS
 
